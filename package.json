@@ -1,0 +1,19 @@
+{
+  "name": "interactive_cares",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --no-timeouts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "selenium-webdriver": "^4.20.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  },
+  "description": ""
+}
